@@ -17,7 +17,7 @@
 }
 
 body{
-  background-color:  var(--Light_Grayish_Magenta);
+  background-color:  var(--White);
   display: flex;
   flex-direction: column;
   justify-content: center;
